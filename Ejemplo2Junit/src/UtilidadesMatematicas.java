@@ -11,7 +11,7 @@ public class UtilidadesMatematicas {
 		return mayor;
 	}
 
-	public static int menor(int numero1, int numero2) {
+	public static int menor(int numero1, int numero2) { //CambioNoelia
 		int menor;
 		if (numero1 < numero2) {
 			menor = numero1;
